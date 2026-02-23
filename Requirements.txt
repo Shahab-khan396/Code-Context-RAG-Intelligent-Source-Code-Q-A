@@ -1,0 +1,18 @@
+# --- Core Framework ---
+langchain
+langchain-openrouter  # Specialized provider for OpenRouter
+langchain-community
+
+# --- Vector Database ---
+chromadb
+tiktoken
+
+# --- Ingestion & Parsing ---
+GitPython
+tree-sitter
+tree-sitter-languages
+
+# --- Utilities ---
+python-dotenv
+
+langchain-ollama  # Specialized provider for Ollama
